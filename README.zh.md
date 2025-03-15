@@ -11,6 +11,7 @@ ASR-LLM-TTS实现语音到语音聊天：
 - **TTS（文本到语音）**：edge_tts
 
 ## 安装
+推荐配置：Python >= 3.9
 1. 克隆仓库并`cd`进入目录。
 2. 安装所需的依赖：`pip install -r requirements.txt`
 

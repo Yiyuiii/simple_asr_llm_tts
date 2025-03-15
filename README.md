@@ -13,6 +13,7 @@ ASR-LLM-TTS to accomplish voice-to-voice chat:
 **TTS (Text-to-Speech)**: edge_tts
 
 ## Installation
+Recommendation: Python >= 3.9
 1. Clone the repository and `CD` into the DIR.
 2. Install the required dependencies: `pip install -r requirements.txt`
 
