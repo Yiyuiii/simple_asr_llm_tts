@@ -1,5 +1,5 @@
 # Simple Voice-to-Voice LLM Chat
-[中文介绍](README.zh.md) | [English](README.md)
+[中文介绍](README.zh.md) | English
 
 A simple voice-to-voice LLM chat repo. All is free and light-weight.
 
