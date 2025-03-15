@@ -1,4 +1,6 @@
 # 简单的语音到语音LLM聊天
+[中文介绍](README.zh.md) [English README](README.md)
+
 一个简单的语音到语音LLM聊天仓库。流程全部免费，轻量化部署。
 
 ## 特性
