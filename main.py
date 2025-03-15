@@ -9,10 +9,10 @@ from record import AudioRecorderApp
 from asr import SenseVoiceSmall as ASR
 
 # Configuration parameters
-TEMP_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "temp")
+TEMP_PATH = os.path.abspath("temp")
 AUDIO_PATH = os.path.join(TEMP_PATH, "record.wav")   # Recorded audio file path
 SPEECH_PATH = os.path.join(TEMP_PATH, "speech.mp3")  # Generated speech file path
-ASR_MODEL_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "SenseVoiceSmall")
+ASR_MODEL_PATH = os.path.abspath("SenseVoiceSmall")
 OPENAI_API_KEY = "YOUR_OPENAI_API_KEY"
 OPENAI_BASE_URL = "https://openrouter.ai/api/v1"  # Base URL for OpenRouter API, for free
 
