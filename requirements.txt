@@ -1,0 +1,6 @@
+torchaudio
+funasr
+pyaudio
+playsound
+edge-tts
+openai
